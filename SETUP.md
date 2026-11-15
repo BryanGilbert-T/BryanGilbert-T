@@ -1,10 +1,9 @@
-# Install the calmer GitHub banner
+# Install this profile header
 
-1. In `BryanGilbert-T/BryanGilbert-T`, replace `README.md`.
-2. Replace `assets/aurora.svg` with the SVG in this package.
-3. Commit both changes. The README already uses `?v=calm3` to avoid the old image cache.
-4. Reload your GitHub profile.
+1. Open the **BryanGilbert-T/BryanGilbert-T** repository.
+2. Upload `assets/aurora.gif` and replace `README.md` using the provided files.
+3. Commit the changes. The GIF plays automatically on GitHub without an Action.
+4. Delete the previous `assets/aurora.svg` if you no longer use it.
+5. If you still see the old image, reload the page and check that README references `assets/aurora.gif`.
 
-The centered text fades in once and remains stationary. The background aurora makes very small, smooth changes in a *30-second* mathematically periodic loop. The first and last shape are identical. It does not require GitHub Actions or JavaScript.
-
-Browsers may respect reduced-motion preferences and not animate the SVG.
+The animation is deliberately restrained and loops without a hard cut. The name stays in place throughout the cycle; a one-time text fade-in is not technically reliable in a perpetually repeating GIF.
