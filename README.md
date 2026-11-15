@@ -1,6 +1,6 @@
 <!-- GitHub profile README for BryanGilbert-T -->
 <div align="center">
-  <img src="assets/aurora.svg" alt="Bryan Gilbert Tjahyadi. Building software. Exploring financial markets. Animated blue and teal aurora flowing behind stationary text." width="100%" />
+  <img src="assets/aurora.svg?v=calm3" alt="Bryan Gilbert Tjahyadi. Building software. Exploring financial markets. Slow, seamlessly looping blue and teal aurora behind stationary text." width="100%" />
   <br/><br/>
   <strong>EECS undergraduate at National Tsing Hua University</strong>
   <br/><br/>
