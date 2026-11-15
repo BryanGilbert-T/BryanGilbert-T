@@ -1,11 +1,93 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
-<title id="title">Monthly Coding Activity — awaiting first update</title>
-<desc id="desc">The GitHub Actions workflow has not generated real monthly commit counts yet.</desc>
-<rect width="1200" height="330" rx="14" fill="#08131f"/>
-<rect x="1" y="1" width="1198" height="328" rx="13" stroke="#2f545d" fill="none"/>
-<g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
-<text x="600" y="112" font-size="30" font-weight="700" fill="#e6f8f5">Monthly Coding Activity</text>
-<text x="600" y="162" font-size="20" fill="#6ee7d1">Awaiting first GitHub Actions update</text>
-<text x="600" y="205" font-size="16" fill="#a4c2c6">Run the workflow to generate real monthly commit candlesticks.</text>
-<text x="600" y="245" font-size="13" fill="#7999a2">No sample or fictional commit data displayed</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="575" viewBox="0 0 1200 575" role="img" aria-labelledby="title desc">
+<title id="title">Monthly GitHub commit candlesticks</title>
+<desc id="desc">Twelve months of GitHub-recognized commits for BryanGilbert-T. Each monthly candle summarizes 7-day period counts, and each number above a candle is its monthly total.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111e"/><stop offset="1" stop-color="#102b31"/></linearGradient></defs>
+<rect width="1200" height="575" rx="14" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="573" rx="13" fill="none" stroke="#29444f"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="40" y="57" font-size="27" font-weight="700" fill="#ecf7f5">Monthly Coding Activity</text>
+<text x="40" y="82" font-size="14" fill="#9bb7bb">GitHub commits  ·  monthly candles based on 7-day activity</text>
+<text x="1161" y="58" text-anchor="end" font-size="22" font-weight="700" fill="#5eead4">101 commits</text>
+<text x="1161" y="81" text-anchor="end" font-size="12" fill="#9bb7bb">last 12 months</text>
+<text x="40" y="135" font-size="12" fill="#9bb7bb">MONTHLY TOTAL</text>
+<text x="40" y="159" font-size="11" fill="#7099a1">commits / 7 days</text>
+<line x1="112" y1="447.0" x2="1125" y2="447.0" stroke="#3e6370" stroke-opacity="0.40" stroke-width="1" stroke-dasharray="4 6"/>
+<text x="90" y="451.0" text-anchor="end" font-size="12" fill="#86aab2">0</text>
+<line x1="112" y1="381.0" x2="1125" y2="381.0" stroke="#3e6370" stroke-opacity="0.40" stroke-width="1" stroke-dasharray="4 6"/>
+<text x="90" y="385.0" text-anchor="end" font-size="12" fill="#86aab2">5</text>
+<line x1="112" y1="315.0" x2="1125" y2="315.0" stroke="#3e6370" stroke-opacity="0.40" stroke-width="1" stroke-dasharray="4 6"/>
+<text x="90" y="319.0" text-anchor="end" font-size="12" fill="#86aab2">10</text>
+<line x1="112" y1="249.0" x2="1125" y2="249.0" stroke="#3e6370" stroke-opacity="0.40" stroke-width="1" stroke-dasharray="4 6"/>
+<text x="90" y="253.0" text-anchor="end" font-size="12" fill="#86aab2">15</text>
+<line x1="112" y1="183.0" x2="1125" y2="183.0" stroke="#3e6370" stroke-opacity="0.40" stroke-width="1" stroke-dasharray="4 6"/>
+<text x="90" y="187.0" text-anchor="end" font-size="12" fill="#86aab2">20</text>
+<text x="154.2" y="135" text-anchor="middle" font-size="16" font-weight="700" fill="#e5f5f3">0</text>
+<line x1="154.2" y1="447.00" x2="154.2" y2="447.00" stroke="#74c5de" stroke-width="2.5" stroke-linecap="round"/>
+<rect x="143.2" y="444.75" width="22" height="4.50" rx="2.5" fill="#74c5de"/>
+<text x="154.2" y="483" text-anchor="middle" font-size="12" fill="#b9d3d6">Dec '25</text>
+<title>Dec '25: 0 commits total | first period 0, highest 0, lowest 0, last period 0</title>
+<text x="238.6" y="135" text-anchor="middle" font-size="16" font-weight="700" fill="#e5f5f3">0</text>
+<line x1="238.6" y1="447.00" x2="238.6" y2="447.00" stroke="#74c5de" stroke-width="2.5" stroke-linecap="round"/>
+<rect x="227.6" y="444.75" width="22" height="4.50" rx="2.5" fill="#74c5de"/>
+<text x="238.6" y="483" text-anchor="middle" font-size="12" fill="#b9d3d6">Jan '26</text>
+<title>Jan '26: 0 commits total | first period 0, highest 0, lowest 0, last period 0</title>
+<text x="323.0" y="135" text-anchor="middle" font-size="16" font-weight="700" fill="#e5f5f3">0</text>
+<line x1="323.0" y1="447.00" x2="323.0" y2="447.00" stroke="#74c5de" stroke-width="2.5" stroke-linecap="round"/>
+<rect x="312.0" y="444.75" width="22" height="4.50" rx="2.5" fill="#74c5de"/>
+<text x="323.0" y="483" text-anchor="middle" font-size="12" fill="#b9d3d6">Feb '26</text>
+<title>Feb '26: 0 commits total | first period 0, highest 0, lowest 0, last period 0</title>
+<text x="407.5" y="135" text-anchor="middle" font-size="16" font-weight="700" fill="#e5f5f3">2</text>
+<line x1="407.5" y1="420.60" x2="407.5" y2="447.00" stroke="#74c5de" stroke-width="2.5" stroke-linecap="round"/>
+<rect x="396.5" y="444.75" width="22" height="4.50" rx="2.5" fill="#74c5de"/>
+<text x="407.5" y="483" text-anchor="middle" font-size="12" fill="#b9d3d6">Mar '26</text>
+<title>Mar '26: 2 commits total | first period 0, highest 2, lowest 0, last period 0</title>
+<text x="491.9" y="135" text-anchor="middle" font-size="16" font-weight="700" fill="#e5f5f3">6</text>
+<line x1="491.9" y1="381.00" x2="491.9" y2="447.00" stroke="#2dd4a7" stroke-width="2.5" stroke-linecap="round"/>
+<rect x="480.9" y="381.00" width="22" height="52.80" rx="2.5" fill="#2dd4a7"/>
+<text x="491.9" y="483" text-anchor="middle" font-size="12" fill="#b9d3d6">Apr '26</text>
+<title>Apr '26: 6 commits total | first period 1, highest 5, lowest 0, last period 5</title>
+<text x="576.3" y="135" text-anchor="middle" font-size="16" font-weight="700" fill="#e5f5f3">29</text>
+<line x1="576.3" y1="249.00" x2="576.3" y2="447.00" stroke="#2dd4a7" stroke-width="2.5" stroke-linecap="round"/>
+<rect x="565.3" y="249.00" width="22" height="198.00" rx="2.5" fill="#2dd4a7"/>
+<text x="576.3" y="483" text-anchor="middle" font-size="12" fill="#b9d3d6">May '26</text>
+<title>May '26: 29 commits total | first period 0, highest 15, lowest 0, last period 15</title>
+<text x="660.7" y="135" text-anchor="middle" font-size="16" font-weight="700" fill="#e5f5f3">50</text>
+<line x1="660.7" y1="196.20" x2="660.7" y2="447.00" stroke="#ff7b8b" stroke-width="2.5" stroke-linecap="round"/>
+<rect x="649.7" y="196.20" width="22" height="250.80" rx="2.5" fill="#ff7b8b"/>
+<text x="660.7" y="483" text-anchor="middle" font-size="12" fill="#b9d3d6">Jun '26</text>
+<title>Jun '26: 50 commits total | first period 19, highest 19, lowest 0, last period 0</title>
+<text x="745.1" y="135" text-anchor="middle" font-size="16" font-weight="700" fill="#e5f5f3">3</text>
+<line x1="745.1" y1="420.60" x2="745.1" y2="447.00" stroke="#74c5de" stroke-width="2.5" stroke-linecap="round"/>
+<rect x="734.1" y="444.75" width="22" height="4.50" rx="2.5" fill="#74c5de"/>
+<text x="745.1" y="483" text-anchor="middle" font-size="12" fill="#b9d3d6">Jul '26</text>
+<title>Jul '26: 3 commits total | first period 0, highest 2, lowest 0, last period 0</title>
+<text x="829.5" y="135" text-anchor="middle" font-size="16" font-weight="700" fill="#e5f5f3">2</text>
+<line x1="829.5" y1="420.60" x2="829.5" y2="447.00" stroke="#74c5de" stroke-width="2.5" stroke-linecap="round"/>
+<rect x="818.5" y="444.75" width="22" height="4.50" rx="2.5" fill="#74c5de"/>
+<text x="829.5" y="483" text-anchor="middle" font-size="12" fill="#b9d3d6">Aug '26</text>
+<title>Aug '26: 2 commits total | first period 0, highest 2, lowest 0, last period 0</title>
+<text x="914.0" y="135" text-anchor="middle" font-size="16" font-weight="700" fill="#e5f5f3">0</text>
+<line x1="914.0" y1="447.00" x2="914.0" y2="447.00" stroke="#74c5de" stroke-width="2.5" stroke-linecap="round"/>
+<rect x="903.0" y="444.75" width="22" height="4.50" rx="2.5" fill="#74c5de"/>
+<text x="914.0" y="483" text-anchor="middle" font-size="12" fill="#b9d3d6">Sep '26</text>
+<title>Sep '26: 0 commits total | first period 0, highest 0, lowest 0, last period 0</title>
+<text x="998.4" y="135" text-anchor="middle" font-size="16" font-weight="700" fill="#e5f5f3">0</text>
+<line x1="998.4" y1="447.00" x2="998.4" y2="447.00" stroke="#74c5de" stroke-width="2.5" stroke-linecap="round"/>
+<rect x="987.4" y="444.75" width="22" height="4.50" rx="2.5" fill="#74c5de"/>
+<text x="998.4" y="483" text-anchor="middle" font-size="12" fill="#b9d3d6">Oct '26</text>
+<title>Oct '26: 0 commits total | first period 0, highest 0, lowest 0, last period 0</title>
+<rect x="1042.6" y="171" width="80.4" height="295" rx="6" fill="#256363" fill-opacity="0.13"/>
+<text x="1082.8" y="135" text-anchor="middle" font-size="16" font-weight="700" fill="#e5f5f3">9*</text>
+<line x1="1082.8" y1="328.20" x2="1082.8" y2="447.00" stroke="#2dd4a7" stroke-width="2.5" stroke-linecap="round"/>
+<rect x="1071.8" y="328.20" width="22" height="118.80" rx="2.5" fill="#2dd4a7"/>
+<text x="1082.8" y="483" text-anchor="middle" font-size="12" fill="#b9d3d6">Nov '26</text>
+<title>Nov '26: 9 commits total | first period 0, highest 9, lowest 0, last period 9 | month to date</title>
+<line x1="40" y1="513" x2="1160" y2="513" stroke="#315560"/>
+<rect x="43" y="531" width="11" height="11" rx="2" fill="#2dd4a7"/>
+<text x="62" y="541" font-size="12" fill="#a8c8cc">Last period &gt; first</text>
+<rect x="230" y="531" width="11" height="11" rx="2" fill="#ff7b8b"/>
+<text x="249" y="541" font-size="12" fill="#a8c8cc">Last period &lt; first</text>
+<rect x="420" y="531" width="11" height="11" rx="2" fill="#74c5de"/>
+<text x="439" y="541" font-size="12" fill="#a8c8cc">No change</text>
+<text x="1160" y="541" text-anchor="end" font-size="11" fill="#8aadb2">* Current month to date  ·  Updated 2026-11-15</text>
 </g></svg>
