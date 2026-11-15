@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="258" viewBox="0 0 1200 258" role="img" aria-labelledby="title desc">
+  <title id="title">Bryan Gilbert Tjahyadi</title>
+  <desc id="desc">Dark terminal-inspired profile banner with a subtle market chart</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080F1C"/><stop offset="0.57" stop-color="#0D1C2A"/><stop offset="1" stop-color="#0A3C3D"/></linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#2DD4BF" stop-opacity=".15"/><stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#476477" stroke-opacity=".16" stroke-width="1"/></pattern>
+  </defs>
+  <rect x="0.5" y="0.5" width="1199" height="257" rx="12" fill="url(#bg)" stroke="#31535D"/>
+  <rect x="1" y="1" width="1198" height="256" rx="12" fill="url(#grid)"/>
+  <path d="M0 219L460 125L705 204L1200 90V258H0Z" fill="url(#glow)" />
+  <g font-family="Arial,Helvetica,sans-serif">
+    <circle cx="35" cy="30" r="6" fill="#FF6B6B"/><circle cx="55" cy="30" r="6" fill="#FFD166"/><circle cx="75" cy="30" r="6" fill="#06D6A0"/>
+    <text x="108" y="35" font-size="14" letter-spacing="2" fill="#8DABB7">BRYAN / PROFILE.TERM</text>
+    <text x="56" y="104" fill="#2DD4BF" font-size="20" font-weight="700">$ whoami</text>
+    <text x="55" y="151" fill="#F5FAFB" font-size="37" font-weight="700" letter-spacing=".3">Bryan Gilbert Tjahyadi</text>
+    <text x="57" y="184" fill="#9CC3CC" font-size="19">EECS @ NTHU  /  Software Engineering &amp; AI</text>
+    <text x="57" y="224" fill="#68E0CF" font-size="13" letter-spacing="2">BUILD  •  ANALYZE  •  ITERATE</text>
+  </g>
+  <g transform="translate(775 50)" stroke-width="2">
+    <path d="M0 150H394M0 109H394M0 68H394M0 27H394" stroke="#607F87" opacity=".19" stroke-dasharray="5 7"/>
+    <path d="M17 118V145M48 100V130M79 76V125M110 86V115M141 57V105M172 67V115M203 41V88M234 53V97M265 34V76M296 38V74M327 19V59M358 27V67" stroke="#49BCA8" opacity=".95"/>
+    <rect x="9" y="123" width="16" height="17" rx="1" fill="#2DD4BF"/>
+    <rect x="40" y="105" width="16" height="18" rx="1" fill="#2DD4BF"/>
+    <rect x="71" y="90" width="16" height="26" rx="1" fill="#2DD4BF"/>
+    <rect x="102" y="95" width="16" height="16" rx="1" fill="#FB7185"/>
+    <rect x="133" y="66" width="16" height="31" rx="1" fill="#2DD4BF"/>
+    <rect x="164" y="75" width="16" height="28" rx="1" fill="#FB7185"/>
+    <rect x="195" y="48" width="16" height="34" rx="1" fill="#2DD4BF"/>
+    <rect x="226" y="59" width="16" height="29" rx="1" fill="#FB7185"/>
+    <rect x="257" y="40" width="16" height="30" rx="1" fill="#2DD4BF"/>
+    <rect x="288" y="44" width="16" height="24" rx="1" fill="#FB7185"/>
+    <rect x="319" y="24" width="16" height="28" rx="1" fill="#2DD4BF"/>
+    <rect x="350" y="30" width="16" height="30" rx="1" fill="#FB7185"/>
+    <text x="390" y="190" fill="#73A7A7" font-size="11" font-family="Arial" text-anchor="end" letter-spacing="2">MARKETS × SOFTWARE</text>
+  </g>
+</svg>
