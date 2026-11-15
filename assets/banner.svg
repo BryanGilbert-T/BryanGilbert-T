@@ -11,10 +11,10 @@
   <path d="M0 219L460 125L705 204L1200 90V258H0Z" fill="url(#glow)" />
   <g font-family="Arial,Helvetica,sans-serif">
     <circle cx="35" cy="30" r="6" fill="#FF6B6B"/><circle cx="55" cy="30" r="6" fill="#FFD166"/><circle cx="75" cy="30" r="6" fill="#06D6A0"/>
-    <text x="108" y="35" font-size="14" letter-spacing="2" fill="#8DABB7">BRYAN / PROFILE.TERM</text>
-    <text x="56" y="104" fill="#2DD4BF" font-size="20" font-weight="700">$ whoami</text>
+    <text x="108" y="35" font-size="14" letter-spacing="2" fill="#8DABB7">BRYAN / SOFTWARE &amp; MARKETS</text>
+    <text x="56" y="104" fill="#2DD4BF" font-size="20" font-weight="700">Hi, I'm Bryan.</text>
     <text x="55" y="151" fill="#F5FAFB" font-size="37" font-weight="700" letter-spacing=".3">Bryan Gilbert Tjahyadi</text>
-    <text x="57" y="184" fill="#9CC3CC" font-size="19">EECS @ NTHU  /  Software Engineering &amp; AI</text>
+    <text x="57" y="184" fill="#9CC3CC" font-size="19">Student at NTHU  ·  Software, AI &amp; Markets</text>
     <text x="57" y="224" fill="#68E0CF" font-size="13" letter-spacing="2">BUILD  •  ANALYZE  •  ITERATE</text>
   </g>
   <g transform="translate(775 50)" stroke-width="2">

@@ -1,79 +1,57 @@
-<!-- Personal GitHub profile README for github.com/BryanGilbert-T -->
-
+<!-- Profile for https://github.com/BryanGilbert-T -->
 <div align="center">
-  <img src="assets/banner.svg" alt="Bryan Gilbert Tjahyadi — engineering, AI and markets" width="100%" />
-  <br />
-  <br />
-  <a href="https://www.linkedin.com/in/bryan-gilbert-hl/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/BryanGilbert-T?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20code-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub repositories" /></a>
-  <img src="https://img.shields.io/badge/Based%20in-Hsinchu%2C%20Taiwan-0F766E?style=flat-square" alt="Based in Hsinchu, Taiwan" />
+  <img src="assets/banner.svg" width="100%" alt="Bryan Gilbert Tjahyadi — computer science, software and financial markets" />
+  <br/><br/>
+  <strong>Computer Science student at NTHU, building software and exploring financial markets.</strong>
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/bryan-gilbert-hl/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://github.com/BryanGilbert-T?tab=repositories">My repositories</a>
 </div>
 
-### `> whoami`
+## A little about me
 
-I'm **Bryan**, an **Electrical Engineering & Computer Science undergraduate at National Tsing Hua University**, Taiwan. I like building software, understanding how systems work, and using data to make better decisions.
+I'm **Bryan**, an Electrical Engineering and Computer Science undergraduate at **National Tsing Hua University** in Taiwan. I enjoy making software, exploring how things work, and learning to make better decisions with data.
 
 - **Currently:** Teaching Assistant for Introduction to Programming (Python)
-- **Exploring:** software engineering, AI-powered applications, data pipelines, and financial markets
-- **Languages:** Python · C · C++ · Java · SQL · Dart
-- **Beyond the terminal:** equity & crypto research, poker, golf, books, and 2010s pop
+- **Interested in:** Software engineering, artificial intelligence, data, and financial markets
+- **Outside coding:** Stocks and crypto, poker, golf, books, and 2010s pop
 
-### `> tech --stack`
+## Languages & tools
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,dart,react,flutter,firebase,git,github,cmake,vscode&perline=12" alt="Python, C, C++, Java, Dart, React, Flutter, Firebase, Git, GitHub, CMake and VS Code" />
-</div>
+**Programming:** Python · C · C++ · Java · SQL · Dart
 
-<p align="center"><code>pandas</code> · <code>NumPy</code> · <code>scikit-learn</code> · <code>Matplotlib</code> · <code>Selenium</code> · <code>Beautiful Soup</code></p>
-
-### `> ls ./featured-projects`
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/anotherfei/Goal-Digger-App">Goal Digger</a></h3>
-      <p><strong>Flutter · Firebase · AI</strong></p>
-      <p>Collaborative productivity app combining goal management, scheduling, and AI-powered planning workflows.</p>
-      <sub>Team project · repository maintained by a collaborator</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/BryanGilbert-T/Sun-Wu-Kuo">Sun-Wu-Kuo</a></h3>
-      <p><strong>C++17 · Allegro 5 · CMake</strong></p>
-      <p>A 2D action RPG featuring modular scene management, game-state updates, and object-oriented gameplay systems.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/BryanGilbert-T/God-of-Tsinghua">God of Tsinghua</a></h3>
-      <p><strong>C · Allegro 5</strong></p>
-      <p>A 2D shooting game built around a real-time game loop, event handling, and modular player, enemy, and weapon systems.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/BryanGilbert-T/Bitcoin-Price-Predictor">Bitcoin Price Predictor</a></h3>
-      <p><strong>Python · scikit-learn · Data Analysis</strong></p>
-      <p>An exploratory machine-learning project connecting market data and Reddit sentiment for short-term BTC price research.</p>
-    </td>
-  </tr>
-</table>
-
-**Other work:** Built a reproducible Python data pipeline for a telecom analytics competition, combining dataset cleaning, support-note processing, time-aware targeting, and automated reporting.
-
-### `> git activity --candles`
+**Tools & platforms:** Flutter · Firebase · Git · CMake · pandas · NumPy · scikit-learn · Selenium
 
 <div align="center">
-  <img src="assets/candles.svg" alt="GitHub contribution activity shown as a candlestick-inspired chart" width="100%" />
-  <sub>Candles represent weekly GitHub contributions—not financial asset prices. The chart refreshes when the included GitHub Action runs.</sub>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,dart,flutter,firebase,git,github,cmake,vscode&perline=11" alt="Programming languages and development tools" />
 </div>
 
-### `> cat interests.txt`
+## Featured projects
 
-```
-Engineering : build useful things, understand the details
-Markets     : equities, crypto, macro & investment research
-Off-screen  : poker, golf, books & 2010s pop
-```
+| Project | What it does |
+| --- | --- |
+| **[Goal Digger](https://github.com/anotherfei/Goal-Digger-App)** | Team-built productivity application using Flutter, Firebase, and AI-assisted planning. |
+| **[Sun-Wu-Kuo](https://github.com/BryanGilbert-T/Sun-Wu-Kuo)** | A 2D C++ action RPG demonstrating object-oriented design and modular game systems. |
+| **[God of Tsinghua](https://github.com/BryanGilbert-T/God-of-Tsinghua)** | A 2D game written in C with Allegro 5 and real-time gameplay systems. |
+| **[Bitcoin Price Predictor](https://github.com/BryanGilbert-T/Bitcoin-Price-Predictor)** | A Python machine-learning project exploring cryptocurrency price prediction. |
 
-<div align="center">
-  <br />
-  <sub>Curiosity compounds.</sub>
-</div>
+Also worked on a **Python analytics pipeline for a telecom competition**, automating data cleaning, support-note processing, and audience generation.
+
+## Monthly coding activity
+
+<img src="assets/candles.svg" alt="Automatically updated monthly GitHub commit activity shown as candlesticks" width="100%" />
+
+A market-inspired visualization of my **GitHub commit contributions** over the last 12 months, automatically updated through GitHub Actions.
+
+- **Horizontal axis:** Months; **vertical axis:** commits per seven-day period.
+- **Green / red candles:** More / fewer commits in the last period of the month than the first.
+- **Candle high / low:** Most / fewest commits in any seven-day period within that month.
+- **Number above each candle:** Total commits counted for that month. **\*** denotes the current, incomplete month.
+
+*Counts follow GitHub's contribution rules, so they may exclude commits on non-default branches and private repository activity. The chart reflects coding activity, not financial prices.*
+
+## Beyond the screen
+
+I like studying **equities, crypto, and macroeconomics**, and spending time with **poker, golf, books, and 2010s pop**.
+
+<div align="center"><sub>Curiosity compounds.</sub></div>

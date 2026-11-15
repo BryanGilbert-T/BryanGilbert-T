@@ -1,18 +1,26 @@
-name: Update contribution candlesticks
+name: Update monthly GitHub commit candles
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 3 * * *"
+    - cron: "19 2 * * *"  # Daily at 02:19 UTC; scheduled runs can be delayed.
+  push:
+    paths:
+      - "scripts/generate_candles.py"
+      - ".github/workflows/candles.yml"
 
 permissions:
   contents: write
+
+concurrency:
+  group: monthly-commit-chart
+  cancel-in-progress: true
 
 jobs:
   update-chart:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out profile repository
+      - name: Check out repository
         uses: actions/checkout@v4
 
       - name: Set up Python
@@ -20,18 +28,18 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Generate chart from public GitHub contributions
+      - name: Render chart from GitHub-recognized commit contributions
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USER: ${{ github.repository_owner }}
         run: python scripts/generate_candles.py
 
-      - name: Commit chart changes
+      - name: Commit updated chart if it changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/candles.svg
           if ! git diff --cached --quiet; then
-            git commit -m "chore: update contribution candles"
+            git commit -m "chore: refresh monthly commit candles"
             git push
           fi

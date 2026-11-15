@@ -1,6 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-labelledby="t d">
-<title id="t">GitHub contribution candles</title><desc id="d">Preview placeholder; run the supplied GitHub Action to render live data</desc>
-<rect width="1200" height="340" rx="12" fill="#09111D"/><rect x="1" y="1" width="1198" height="338" rx="12" fill="none" stroke="#27515B"/>
-<g font-family="Arial,sans-serif"><text x="35" y="52" fill="#E1F2EF" font-size="25" font-weight="bold">GITHUB / CONTRIBUTION CANDLES</text><text x="35" y="79" fill="#73A7A7" font-size="14">Live chart has not been initialized</text><text x="600" y="190" text-anchor="middle" font-size="20" fill="#5EEAD4">RUN ACTIONS → UPDATE CONTRIBUTION CANDLESTICKS</text><text x="600" y="221" text-anchor="middle" font-size="14" fill="#9BB5B9">GitHub will replace this placeholder with your own contribution data.</text></g>
-<path d="M35 280H1165M35 255H1165M35 130H1165" stroke="#315A64" opacity=".5" stroke-dasharray="5 8"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">Monthly Coding Activity — awaiting first update</title>
+<desc id="desc">The GitHub Actions workflow has not generated real monthly commit counts yet.</desc>
+<rect width="1200" height="330" rx="14" fill="#08131f"/>
+<rect x="1" y="1" width="1198" height="328" rx="13" stroke="#2f545d" fill="none"/>
+<g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+<text x="600" y="112" font-size="30" font-weight="700" fill="#e6f8f5">Monthly Coding Activity</text>
+<text x="600" y="162" font-size="20" fill="#6ee7d1">Awaiting first GitHub Actions update</text>
+<text x="600" y="205" font-size="16" fill="#a4c2c6">Run the workflow to generate real monthly commit candlesticks.</text>
+<text x="600" y="245" font-size="13" fill="#7999a2">No sample or fictional commit data displayed</text>
+</g></svg>
