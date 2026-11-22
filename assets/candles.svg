@@ -78,10 +78,10 @@
 <title>Oct '26: 0 commits total | first period 0, highest 0, lowest 0, last period 0</title>
 <rect x="1042.6" y="171" width="80.4" height="295" rx="6" fill="#256363" fill-opacity="0.13"/>
 <text x="1082.8" y="135" text-anchor="middle" font-size="16" font-weight="700" fill="#e5f5f3">13*</text>
-<line x1="1082.8" y1="275.40" x2="1082.8" y2="447.00" stroke="#2dd4a7" stroke-width="2.5" stroke-linecap="round"/>
-<rect x="1071.8" y="275.40" width="22" height="171.60" rx="2.5" fill="#2dd4a7"/>
+<line x1="1082.8" y1="275.40" x2="1082.8" y2="447.00" stroke="#74c5de" stroke-width="2.5" stroke-linecap="round"/>
+<rect x="1071.8" y="444.75" width="22" height="4.50" rx="2.5" fill="#74c5de"/>
 <text x="1082.8" y="483" text-anchor="middle" font-size="12" fill="#b9d3d6">Nov '26</text>
-<title>Nov '26: 13 commits total | first period 0, highest 13, lowest 0, last period 13 | month to date</title>
+<title>Nov '26: 13 commits total | first period 0, highest 13, lowest 0, last period 0 | month to date</title>
 <line x1="40" y1="513" x2="1160" y2="513" stroke="#315560"/>
 <rect x="43" y="531" width="11" height="11" rx="2" fill="#2dd4a7"/>
 <text x="62" y="541" font-size="12" fill="#a8c8cc">Last period &gt; first</text>
@@ -89,5 +89,5 @@
 <text x="249" y="541" font-size="12" fill="#a8c8cc">Last period &lt; first</text>
 <rect x="420" y="531" width="11" height="11" rx="2" fill="#74c5de"/>
 <text x="439" y="541" font-size="12" fill="#a8c8cc">No change</text>
-<text x="1160" y="541" text-anchor="end" font-size="11" fill="#8aadb2">* Current month to date  ·  Updated 2026-11-21</text>
+<text x="1160" y="541" text-anchor="end" font-size="11" fill="#8aadb2">* Current month to date  ·  Updated 2026-11-22</text>
 </g></svg>
